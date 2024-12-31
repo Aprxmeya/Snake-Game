@@ -39,12 +39,11 @@ Welcome to the **Snake Game**, a modern take on the classic arcade game built wi
 
 ![Gameplay Screenshot](https://github.com/Aprxmeya/Snake-Game/blob/main/.idea/pic.png)
 
-*(Tip: Add a screenshot or GIF of the game here to make your README pop!)*
 
 ---
 
 ## ⚙️ Requirements
-
+made in 3.12
 - **Python 3.8 or higher**  
 - Built-in `turtle` module (already included with Python)
 
